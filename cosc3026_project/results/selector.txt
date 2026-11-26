@@ -1,0 +1,6 @@
+tau_d=0.0
+tau_s=0.0
+train_accuracy=1.0
+heldout_accuracy=0.75
+always_apriori_tid_heldout=0.25
+always_fpgrowth_heldout=0.75

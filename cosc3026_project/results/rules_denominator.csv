@@ -1,0 +1,5 @@
+dataset,min_sup,n_original,n_reduced,freq_fixed,freq_reduced,fixed_conf0.1,fixed_conf0.2,fixed_conf0.3,fixed_conf0.4,reduced_conf0.1,reduced_conf0.2,reduced_conf0.3,reduced_conf0.4
+retail,0.06,88162,85146,15,15,32,22,17,15,32,22,17,15
+retail,0.04,88162,85146,18,18,34,24,17,15,34,24,17,15
+retail,0.03,88162,85146,32,33,52,36,24,22,52,36,24,22
+retail,0.02,88162,85146,55,60,105,72,50,47,112,77,55,52

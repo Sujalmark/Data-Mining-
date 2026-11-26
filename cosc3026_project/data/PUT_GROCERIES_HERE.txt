@@ -1,0 +1,4 @@
+Save the Groceries dataset in this folder as:  groceries.dat
+(9,835 baskets, one basket per line, items separated by commas or spaces)
+
+chess.dat, mushroom.dat and retail.dat are downloaded automatically by download_data.py

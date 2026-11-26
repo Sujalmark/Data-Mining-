@@ -1,0 +1,4 @@
+dataset,transactions,items,avg_len,density
+retail,88162,16470,10.31,0.0006
+chess,3196,75,37.0,0.4933
+mushroom,8124,119,23.0,0.1933
